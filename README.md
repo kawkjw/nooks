@@ -5,10 +5,10 @@ Collection of the React Hooks
 -   [ ] useTitle
 -   [x] useInput
 -   [ ] usePageLeave
--   [ ] useClick
+-   [x] useClick
 -   [ ] useFadeIn
 -   [ ] useFullscreen
--   [ ] useHover
+-   [x] useHover
 -   [ ] useNetwork
 -   [ ] useNotification
 -   [ ] useScroll
