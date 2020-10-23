@@ -3,7 +3,7 @@
 Collection of the React Hooks
 
 -   [ ] useTitle
--   [ ] useInput
+-   [x] useInput
 -   [ ] usePageLeave
 -   [ ] useClick
 -   [ ] useFadeIn
