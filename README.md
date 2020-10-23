@@ -4,7 +4,7 @@ Collection of the React Hooks
 
 -   [ ] useTitle
 -   [x] useInput
--   [ ] usePageLeave
+-   [x] useBeforeLeave
 -   [x] useClick
 -   [ ] useFadeIn
 -   [ ] useFullscreen
