@@ -10,7 +10,7 @@ Collection of the React Hooks
 -   [x] useFullscreen
 -   [x] useHover
 -   [x] useNetwork
--   [ ] useNotification
+-   [x] useNotification
 -   [x] useScroll
 -   [x] useTabs
 -   [x] usePreventLeave
