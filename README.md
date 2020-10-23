@@ -2,12 +2,12 @@
 
 Collection of the React Hooks
 
--   [ ] useTitle
+-   [x] useTitle
 -   [x] useInput
 -   [x] useBeforeLeave
 -   [x] useClick
 -   [x] useFadeIn
--   [ ] useFullscreen
+-   [x] useFullscreen
 -   [x] useHover
 -   [x] useNetwork
 -   [ ] useNotification
