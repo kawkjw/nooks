@@ -13,6 +13,6 @@ Collection of the React Hooks
 -   [ ] useNotification
 -   [ ] useScroll
 -   [x] useTabs
--   [ ] usePreventLeave
+-   [x] usePreventLeave
 -   [x] useConfirm
 -   [ ] useAxios
