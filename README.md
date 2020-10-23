@@ -6,7 +6,7 @@ Collection of the React Hooks
 -   [x] useInput
 -   [x] useBeforeLeave
 -   [x] useClick
--   [ ] useFadeIn
+-   [x] useFadeIn
 -   [ ] useFullscreen
 -   [x] useHover
 -   [ ] useNetwork
