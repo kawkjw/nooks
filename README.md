@@ -15,4 +15,4 @@ Collection of the React Hooks
 -   [x] useTabs
 -   [x] usePreventLeave
 -   [x] useConfirm
--   [ ] useAxios
+-   [x] useAxios
